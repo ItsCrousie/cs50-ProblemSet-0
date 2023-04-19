@@ -1,7 +1,7 @@
 <img
   align="left"
   width="50px"
-  src="https://www.harvard.edu/wp-content/uploads/2021/02/Veritas_and_Adorned_Shield_2880x1920_RGB-1024x683.png"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harvard_University_logo.svg/2560px-Harvard_University_logo.svg.png?20200802104842"
   alt="Harvard University Logo"
 />
 
